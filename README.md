@@ -1,5 +1,5 @@
 # PosCari
-Submission Dicoding Belajar Fundamental Front End Dev
+Submission Dicoding Belajar Fundamental Front End Developer
 
 Cara Run :
 1. `npm i` / `npm install`
