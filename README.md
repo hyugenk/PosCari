@@ -6,4 +6,3 @@ Cara Run :
 2. `npm run start-dev`
 
 atau link https://pos-carii-hyugenk.vercel.app/
-Apabila ingin bertanya bisa kontak saya
