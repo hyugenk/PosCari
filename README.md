@@ -1,4 +1,5 @@
-# PosCari
+## <h1 align="center">PosCari</h1>
+
 Submission Dicoding Belajar Fundamental Front End Developer
 
 Cara Menjalankan Aplikasi :
