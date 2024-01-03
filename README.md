@@ -1,5 +1,10 @@
 ## <h1 align="center">PosCari</h1>
 
+<br>
+  <p align="center">
+  <a><img src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="image" width="500"></a>
+<br>
+
 Submission Dicoding Belajar Fundamental Front End Developer
 
 Cara Menjalankan Aplikasi :
