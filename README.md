@@ -12,3 +12,8 @@ Cara Menjalankan Aplikasi :
 2. Jalankan aplikasi secara lokal dengan perintah: `npm run start-dev`
 
 atau link [PosCari](https://pos-carii-hyugenk.vercel.app/)
+
+### Tampilan Web
+[![expert2-1.png](https://i.postimg.cc/ht5SPqxf/poscari.png)](https://postimg.cc/87L8t9ZS)
+
+
